@@ -1,0 +1,107 @@
+#bodydiv左{
+	width: 60%;
+	height: 1280px;
+	border: 0px solid #FFFFFF;
+	display: inline-block;
+	/* background-color: #0000FF; */
+	/* position: absolute; */
+	float: left;
+}
+.bodydiv左h1{
+	width: 100%;
+	height: 30px;
+	font-size: 25px;
+}
+.bodydiv左h6{
+	width: 100%;
+	height: 20px;
+	font-size: 10px;
+}
+.bodydiv左textarea{
+	width: 99%;
+	height: 50px;
+	font-size: 15px;
+}
+#bodydiv右{
+	width: 40%;
+	display: inline-block;
+	height: 1280px;
+	/* background-color: #00FFFF; */
+	float: left;
+	/* position: absolute; */
+}
+.bodydiv右h1{
+	width: 39%;
+	height: 30px;
+	font-size: 20px;
+}
+.bodydiv右dashhed{
+	width: 99%;
+	height: 0px;
+	border-style: dashed;
+}
+
+.bodydiv右div左{
+	display: inline-block;
+	width: 40%;
+}
+.bodydiv右div右{
+	display: inline-block;
+	width: 58%;
+}
+.bodydiv右div右h1{
+	width: 99%;
+	height: 22px;
+	font-size: 18px;
+}
+.bodydiv右div右h6{
+	width: 99%;
+	height: 12px;
+	font-size: 9px;
+}
+.bodydiv右div右textarea{
+	width: 98%;
+	height: 40px;
+}
+#bodydiv右div2{
+	width: 99%;
+	height: 140px;
+}
+
+.bodydiv右div2div{
+	display: inline-block;
+	width: 70px;
+	height: 24px;
+	background-color: #AAAAAC;
+	line-height: 24px;
+	font-size: 15px;
+	padding: 5px;
+}
+.bodydiv右div2div:hover{
+	color: #00FFFF;
+}
+
+#bodydiv右div2div1{
+	margin-top: 0px;
+	margin-left: 20px;
+}
+#bodydiv右div2div2{
+	margin-top: 0px;
+	margin-left: 20px;
+}
+#bodydiv右div2div3{
+	margin-top: 0px;
+	margin-left: 20px;
+}
+#bodydiv右div2div4{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#bodydiv右div2div5{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#bodydiv右div2div6{
+	margin-top:10px;
+	margin-left: 20px;
+}
