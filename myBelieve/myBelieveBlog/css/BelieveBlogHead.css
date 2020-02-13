@@ -1,0 +1,76 @@
+#headdiv1{
+	width: 100%;
+	height: 20px;
+	background-color:#2CA2CF;
+	font-size: 15px;
+}
+#headdiv2{
+	width: 100%;
+	height: 50px;
+}
+#headdiv3{
+	width: 100%;
+	height: 50px;
+	background-color: #000000;
+}
+#headdiv3div1{
+	position: absolute;
+	top: 85px;
+	right: 50px;
+	width: 30px;
+	height: 30px;
+	border: 2px solid #FFFFFF;
+}
+#headdiv3div11{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	width: 20px;
+	height: 2px;
+	background-color: #FFFFFF;
+}
+#headdiv3div12{
+	position: absolute;
+	top: 15px;
+	right: 5px;
+	width: 20px;
+	height: 2px;
+	background-color: #FFFFFF;
+}
+#headdiv3div13{
+	position: absolute;
+	top: 25px;
+	right: 5px;
+	width: 20px;
+	height: 2px;
+	background-color: #FFFFFF;
+}
+#headdiv3div1:hover{
+	background-color: #00FFFF;
+}55px
+#headdiv4{
+	width: 100%;
+	height: 70px;
+}
+#headdiv4div1{
+	position: absolute;
+	top: 135px;
+	left: 35px;
+	width: 50px;
+	height: 55px;
+	
+}
+#headdiv4div2{
+	position: absolute;
+	top: 135px;
+	left: 85px;
+	width: 50px;
+	height: 55px;
+	
+}
+#headdiv4p1:hover{
+	color: #00FFFF;
+}
+#headdiv4p2:hover{
+	color: #00FFFF;
+}

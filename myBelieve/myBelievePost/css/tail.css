@@ -1,0 +1,22 @@
+#TailDiv{
+	margin: 0px;
+	width: 100%;
+	height: 100px;
+	background-color:#000000 ;
+	float: left;
+}
+#TailDiv左{
+	width: 30%;
+	height: 100px;
+	float: left;
+}
+#TailDiv中{
+	width: 40%;
+	height: 100px;
+	float: left;
+}
+#TailDiv右{
+	width: 30%;
+	height: 100px;
+	float: left;
+}
